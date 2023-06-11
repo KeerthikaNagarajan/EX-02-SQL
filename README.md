@@ -1,4 +1,4 @@
-# EX-02:
+# Ex-02:
 ## SQL QUERY TO FETCH THE NO OF WORKERS FOR EACH DEPARTMENT IN DESCENDING ORDER FROM THE SAMPLE DATA
 ### AIM:
 To perform sql query to fetch the number of workers for each department in descending order from the sample data.
